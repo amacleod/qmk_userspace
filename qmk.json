@@ -1,4 +1,13 @@
 {
     "userspace_version": "1.1",
-    "build_targets": []
+    "build_targets": [
+        [
+            "splitkb/halcyon/elora/rev2",
+            "amacleod",
+            {
+		"HLC_NONE": "1",
+                "TARGET": "elora"
+            }
+        ]
+    ]
 }
